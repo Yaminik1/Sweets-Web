@@ -1,0 +1,45 @@
+.variety {
+    text-align: center;
+}
+.sugar{
+    text-align: center;
+    background-color: #A0D8B3;
+}
+.Three {
+    text-align: center;
+    background-color: #A0D8B3;
+}
+.Four {
+    text-align: center;
+    background-color: whitesmoke;
+}
+.Five {
+    text-align: center;
+    background-color: #FFD95A;
+}
+.Detals {
+    background-color: #F7E1AE;
+    text-align: center;
+}
+.Snacks {
+    background-color: #C9DBB2;
+    text-align: center;
+}
+.Packs {
+    background-color: #E1D4BB;
+    text-align: center;
+}
+#samo {
+    background-color: #FFF7D4;
+}
+#vadu {
+    background-color: #FFD95A;
+}
+.Making {
+    text-align: center;
+    background-color: #FFF9DE;
+}
+.footer {
+    background-color: blue;
+    text-align: center;
+}
